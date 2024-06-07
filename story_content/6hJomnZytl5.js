@@ -1,0 +1,1 @@
+window.globalProvideSvgData('svg-6hJomnZytl5', "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1920\" height=\"176\" viewBox=\"0 0 1920 176\" id=\"svg-6hJomnZytl5\"><g pointer-events=\"visiblePainted\" data-accepts=\"events\"><rect id=\"Rechteck_403-6bBROqcbjLf\" data-name=\"Rechteck 403\" width=\"1920\" height=\"176\" fill=\"#bee69b\" /></g></svg>");
